@@ -1,4 +1,3 @@
-# 💫 About Me:
 Aspiring Software Engineer 
 
 
